@@ -1739,3 +1739,106 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.17-22.15.33:366][ 52]LogSavePackage: Moving '../../../../../Github/EternalARPG/EternalARPGame/Saved/T5W8HL8K317IW4QSRP5IKQ_Auto1B64C1F524D4E805296DE0EA000ABB81C.tmp' to '../../../../../Github/EternalARPG/EternalARPGame/Saved/Autosaves/Game/__ExternalActors__/Core/Levels/ECG_Level01/1/OP/T5W8HL8K317IW4QSRP5IKQ_Auto1.uasset'
 [2023.07.17-22.15.33:386][ 52]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Core/Levels/ECG_Level01' took 0.223
 [2023.07.17-22.15.33:386][ 52]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.223
+[2023.07.17-22.17.55:407][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.07.17-22.17.55:431][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.07.17-22.17.58:034][106]LogSlate: Window 'Save Content' being destroyed
+[2023.07.17-22.17.58:804][106]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.17-22.17.58:887][106]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Core/Levels/ECG_Level01/2/BH/YUHSY1BN0NBGPV7NNABEPR
+[2023.07.17-22.17.58:887][106]LogSavePackage: Moving '../../../../../Github/EternalARPG/EternalARPGame/Saved/YUHSY1BN0NBGPV7NNABEPRB9BC9B7E4B926F14D7A25682FA2E169C.tmp' to '../../../../../Github/EternalARPG/EternalARPGame/Content/__ExternalActors__/Core/Levels/ECG_Level01/2/BH/YUHSY1BN0NBGPV7NNABEPR.uasset'
+[2023.07.17-22.17.58:894][106]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Core/Levels/ECG_Level01/7/XG/1337T8DL3WIGHA259WTZUD
+[2023.07.17-22.17.58:894][106]LogSavePackage: Moving '../../../../../Github/EternalARPG/EternalARPGame/Saved/1337T8DL3WIGHA259WTZUDB27B00414ABF95BCFE41F395D985A608.tmp' to '../../../../../Github/EternalARPG/EternalARPGame/Content/__ExternalActors__/Core/Levels/ECG_Level01/7/XG/1337T8DL3WIGHA259WTZUD.uasset'
+[2023.07.17-22.17.58:901][106]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Core/Levels/ECG_Level01/1/ZF/TFA7D8JG5IS3495WZ4RTO4
+[2023.07.17-22.17.58:901][106]LogSavePackage: Moving '../../../../../Github/EternalARPG/EternalARPGame/Saved/TFA7D8JG5IS3495WZ4RTO4FCA0C4AF458A22A976D1358FBF1B037E.tmp' to '../../../../../Github/EternalARPG/EternalARPGame/Content/__ExternalActors__/Core/Levels/ECG_Level01/1/ZF/TFA7D8JG5IS3495WZ4RTO4.uasset'
+[2023.07.17-22.17.58:907][106]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Core/Levels/ECG_Level01/A/KZ/RJ8498RCV77BC8I489BXWK
+[2023.07.17-22.17.58:907][106]LogSavePackage: Moving '../../../../../Github/EternalARPG/EternalARPGame/Saved/RJ8498RCV77BC8I489BXWKE7D440F34FD9B31455C6EFA658388AB0.tmp' to '../../../../../Github/EternalARPG/EternalARPGame/Content/__ExternalActors__/Core/Levels/ECG_Level01/A/KZ/RJ8498RCV77BC8I489BXWK.uasset'
+[2023.07.17-22.17.58:913][106]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Core/Levels/ECG_Level01/5/8K/T52NONJC0A8VHCCZVN5WBL
+[2023.07.17-22.17.58:914][106]LogSavePackage: Moving '../../../../../Github/EternalARPG/EternalARPGame/Saved/T52NONJC0A8VHCCZVN5WBL5765A7744F5E1B8B4738B7979224B773.tmp' to '../../../../../Github/EternalARPG/EternalARPGame/Content/__ExternalActors__/Core/Levels/ECG_Level01/5/8K/T52NONJC0A8VHCCZVN5WBL.uasset'
+[2023.07.17-22.17.58:920][106]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Core/Levels/ECG_Level01/E/WJ/M1U7D0VLTWCWA3FS4XKTBA
+[2023.07.17-22.17.58:921][106]LogSavePackage: Moving '../../../../../Github/EternalARPG/EternalARPGame/Saved/M1U7D0VLTWCWA3FS4XKTBA68EF0EC64B173756F7C687B46190541C.tmp' to '../../../../../Github/EternalARPG/EternalARPGame/Content/__ExternalActors__/Core/Levels/ECG_Level01/E/WJ/M1U7D0VLTWCWA3FS4XKTBA.uasset'
+[2023.07.17-22.17.58:926][106]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Core/Levels/ECG_Level01/1/GD/N5ID7MWPHA7Z0BP14TJXCW
+[2023.07.17-22.17.58:927][106]LogSavePackage: Moving '../../../../../Github/EternalARPG/EternalARPGame/Saved/N5ID7MWPHA7Z0BP14TJXCW456BAFAC47E2A495A49D05B9F5D887B9.tmp' to '../../../../../Github/EternalARPG/EternalARPGame/Content/__ExternalActors__/Core/Levels/ECG_Level01/1/GD/N5ID7MWPHA7Z0BP14TJXCW.uasset'
+[2023.07.17-22.17.58:932][106]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Core/Levels/ECG_Level01/9/P5/Y355MP4WFOUK84Q2W3CMQ8
+[2023.07.17-22.17.58:933][106]LogSavePackage: Moving '../../../../../Github/EternalARPG/EternalARPGame/Saved/Y355MP4WFOUK84Q2W3CMQ80BBD891341520C7FA6B5C597BE20814E.tmp' to '../../../../../Github/EternalARPG/EternalARPGame/Content/__ExternalActors__/Core/Levels/ECG_Level01/9/P5/Y355MP4WFOUK84Q2W3CMQ8.uasset'
+[2023.07.17-22.17.58:938][106]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Core/Levels/ECG_Level01/9/7G/40F755JPES6WUULAT3X0X8
+[2023.07.17-22.17.58:938][106]LogSavePackage: Moving '../../../../../Github/EternalARPG/EternalARPGame/Saved/40F755JPES6WUULAT3X0X83E391D5B42C56D3642156598868245C8.tmp' to '../../../../../Github/EternalARPG/EternalARPGame/Content/__ExternalActors__/Core/Levels/ECG_Level01/9/7G/40F755JPES6WUULAT3X0X8.uasset'
+[2023.07.17-22.17.58:945][106]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Core/Levels/ECG_Level01/D/GF/8K68EOA6RGAAAPMAERTHDW
+[2023.07.17-22.17.58:945][106]LogSavePackage: Moving '../../../../../Github/EternalARPG/EternalARPGame/Saved/8K68EOA6RGAAAPMAERTHDW54679036482AA7378AD7329168AF5F2C.tmp' to '../../../../../Github/EternalARPG/EternalARPGame/Content/__ExternalActors__/Core/Levels/ECG_Level01/D/GF/8K68EOA6RGAAAPMAERTHDW.uasset'
+[2023.07.17-22.17.58:952][106]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Core/Levels/ECG_Level01/C/BB/OOLK75OD9RDOZWZHYBOLKQ
+[2023.07.17-22.17.58:952][106]LogSavePackage: Moving '../../../../../Github/EternalARPG/EternalARPGame/Saved/OOLK75OD9RDOZWZHYBOLKQ61755A8F48A4CB00A642B3BF07AE98E5.tmp' to '../../../../../Github/EternalARPG/EternalARPGame/Content/__ExternalActors__/Core/Levels/ECG_Level01/C/BB/OOLK75OD9RDOZWZHYBOLKQ.uasset'
+[2023.07.17-22.17.58:958][106]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Core/Levels/ECG_Level01/1/PW/KFTZU3VCY5CJV28CTGIZY1
+[2023.07.17-22.17.58:958][106]LogSavePackage: Moving '../../../../../Github/EternalARPG/EternalARPGame/Saved/KFTZU3VCY5CJV28CTGIZY137FBD5DE477B1594920E4AB9E422A9EE.tmp' to '../../../../../Github/EternalARPG/EternalARPGame/Content/__ExternalActors__/Core/Levels/ECG_Level01/1/PW/KFTZU3VCY5CJV28CTGIZY1.uasset'
+[2023.07.17-22.17.58:964][106]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Core/Levels/ECG_Level01/1/OP/T5W8HL8K317IW4QSRP5IKQ
+[2023.07.17-22.17.58:964][106]LogSavePackage: Moving '../../../../../Github/EternalARPG/EternalARPGame/Saved/T5W8HL8K317IW4QSRP5IKQ0192A3BA4827A738FD1D86B024E34713.tmp' to '../../../../../Github/EternalARPG/EternalARPGame/Content/__ExternalActors__/Core/Levels/ECG_Level01/1/OP/T5W8HL8K317IW4QSRP5IKQ.uasset'
+[2023.07.17-22.17.58:979][106]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 6.68 sec)
+[2023.07.17-22.17.58:981][106]LogStall: Shutdown...
+[2023.07.17-22.17.59:001][106]LogStall: Shutdown complete.
+[2023.07.17-22.17.59:180][106]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.07.17-22.17.59:180][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.17-22.17.59:385][106]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.07.17-22.17.59:386][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.17-22.17.59:396][106]LogSlate: Window 'SM_GateDoor' being destroyed
+[2023.07.17-22.17.59:439][106]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.07.17-22.17.59:439][106]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.17-22.17.59:463][106]LogSlate: Window 'World Partition' being destroyed
+[2023.07.17-22.17.59:590][106]LogSlate: Window 'EternalRPG - Unreal Editor' being destroyed
+[2023.07.17-22.18.00:305][106]AssetCheck: New page: Asset Save: multiple assets
+[2023.07.17-22.18.00:305][106]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Core/Levels/ECG_Level01.ECG_Level01:PersistentLevel.LandscapeStreamingProxy_5V5LZAS0UYMC37UKEXOJJY0RE_1_2_1_0
+[2023.07.17-22.18.00:305][106]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Core/Levels/ECG_Level01.ECG_Level01:PersistentLevel.LandscapeStreamingProxy_5V5LZAS0UYMC37UKEXOJJY0RE_1_3_2_0
+[2023.07.17-22.18.00:305][106]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Core/Levels/ECG_Level01.ECG_Level01:PersistentLevel.LandscapeStreamingProxy_5V5LZAS0UYMC37UKEXOJJY0RE_1_2_3_0
+[2023.07.17-22.18.00:305][106]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Core/Levels/ECG_Level01.ECG_Level01:PersistentLevel.LandscapeStreamingProxy_5V5LZAS0UYMC37UKEXOJJY0RE_1_3_3_0
+[2023.07.17-22.18.00:305][106]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Core/Levels/ECG_Level01.ECG_Level01:PersistentLevel.LandscapeStreamingProxy_5V5LZAS0UYMC37UKEXOJJY0RE_1_1_3_0
+[2023.07.17-22.18.00:305][106]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Core/Levels/ECG_Level01.ECG_Level01:PersistentLevel.LandscapeStreamingProxy_5V5LZAS0UYMC37UKEXOJJY0RE_1_0_3_0
+[2023.07.17-22.18.00:305][106]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Core/Levels/ECG_Level01.ECG_Level01:PersistentLevel.LandscapeStreamingProxy_5V5LZAS0UYMC37UKEXOJJY0RE_1_3_1_0
+[2023.07.17-22.18.00:305][106]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Core/Levels/ECG_Level01.ECG_Level01:PersistentLevel.LandscapeStreamingProxy_5V5LZAS0UYMC37UKEXOJJY0RE_1_3_0_0
+[2023.07.17-22.18.00:305][106]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Core/Levels/ECG_Level01.ECG_Level01:PersistentLevel.LandscapeStreamingProxy_5V5LZAS0UYMC37UKEXOJJY0RE_1_2_0_0
+[2023.07.17-22.18.00:305][106]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Core/Levels/ECG_Level01.ECG_Level01:PersistentLevel.LandscapeStreamingProxy_5V5LZAS0UYMC37UKEXOJJY0RE_1_1_1_0
+[2023.07.17-22.18.00:305][106]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Core/Levels/ECG_Level01.ECG_Level01:PersistentLevel.LandscapeStreamingProxy_5V5LZAS0UYMC37UKEXOJJY0RE_1_1_0_0
+[2023.07.17-22.18.00:305][106]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Core/Levels/ECG_Level01.ECG_Level01:PersistentLevel.LandscapeStreamingProxy_5V5LZAS0UYMC37UKEXOJJY0RE_1_0_1_0
+[2023.07.17-22.18.00:305][106]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/Core/Levels/ECG_Level01.ECG_Level01:PersistentLevel.LandscapeStreamingProxy_5V5LZAS0UYMC37UKEXOJJY0RE_1_0_0_0
+[2023.07.17-22.18.00:307][107]Cmd: QUIT_EDITOR
+[2023.07.17-22.18.00:307][107]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.07.17-22.18.00:350][107]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.07.17-22.18.00:351][107]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.07.17-22.18.00:359][107]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.07.17-22.18.00:403][107]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: GeometryCollectionComponent /Game/Core/Levels/ECG_Level01.ECG_Level01:PersistentLevel.GeometryCollectionActor_UAID_F02F74D0CE12477401_1472186159.GeometryCollectionComponent0, from: Remove from navoctree)
+[2023.07.17-22.18.00:405][107]LogWorld: UWorld::CleanupWorld for ECG_Level01, bSessionEnded=true, bCleanupResources=true
+[2023.07.17-22.18.00:405][107]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.17-22.18.00:450][107]LogContentBundle: [ECG_Level01(Standalone)] Deleting container.
+[2023.07.17-22.18.00:649][107]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.07.17-22.18.00:680][107]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.07.17-22.18.01:655][107]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.07.17-22.18.01:655][107]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.07.17-22.18.01:655][107]LogAudio: Display: Audio Device unregistered from world 'ECG_Level01'.
+[2023.07.17-22.18.01:662][107]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2023.07.17-22.18.01:678][107]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.07.17-22.18.01:679][107]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.07.17-22.18.01:695][107]LogAudio: Display: Audio Device Manager Shutdown
+[2023.07.17-22.18.01:721][107]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.07.17-22.18.01:785][107]LogExit: Preparing to exit.
+[2023.07.17-22.18.02:323][107]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.07.17-22.18.02:332][107]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.17-22.18.02:332][107]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.17-22.18.02:332][107]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.17-22.18.02:332][107]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.17-22.18.02:332][107]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.17-22.18.02:332][107]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.17-22.18.02:332][107]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.17-22.18.02:332][107]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.17-22.18.02:332][107]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.17-22.18.02:332][107]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.17-22.18.02:332][107]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.17-22.18.02:332][107]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.17-22.18.02:332][107]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.17-22.18.02:332][107]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.17-22.18.02:332][107]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.17-22.18.02:332][107]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.17-22.18.02:332][107]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.17-22.18.02:332][107]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.17-22.18.02:332][107]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.17-22.18.03:557][107]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.07.17-22.18.03:561][107]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.07.17-22.18.03:565][107]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.07.17-22.18.03:568][107]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.07.17-22.18.04:513][107]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.07.17-22.18.04:589][107]LogExit: Editor shut down
+[2023.07.17-22.18.04:592][107]LogExit: Transaction tracking system shut down
