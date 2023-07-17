@@ -1,0 +1,9 @@
+FileVersion:2
+Type:Static
+Guid:62B83F8E-4DEC-C8CC-4547-DD922B5EC9EB
+ParentGuid:00000000-0000-0000-0000-000000000000
+
+/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/Idle.Idle
+/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/Jog_Fwd.Jog_Fwd
+/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/Jog_Fwd_Start.Jog_Fwd_Start
+/Game/ParagonAurora/Characters/Heroes/Aurora/Animations/Jog_Fwd_Stop.Jog_Fwd_Stop
